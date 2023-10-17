@@ -19,8 +19,6 @@ public class Homework {
      //   String result = input.substring(0, halfLength);
     //    System.out.println(result);
 
-    //blue orchids bloom
-
 
   //  }
   // }
