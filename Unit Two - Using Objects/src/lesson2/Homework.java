@@ -18,6 +18,10 @@ public class Homework {
       //  int halfLength = length/2;
      //   String result = input.substring(0, halfLength);
     //    System.out.println(result);
+
+    //blue orchids bloom
+
+
   //  }
   // }
 
